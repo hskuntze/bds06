@@ -39,7 +39,6 @@ public class ReviewResourceIT {
 	
 	@BeforeEach
 	void setUp() throws Exception {
-		
 		visitorUsername = "bob@gmail.com";
 		visitorPassword = "123456";
 		memberUsername = "ana@gmail.com";
